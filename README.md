@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Cz3r0saN
-- 👀 I’m interested in ... cyber security , web development , python language.
-- 🌱 I’m currently learning ... persuing computer engineering.
+- 👋 Hi, I’m @Cz3r0saN you call me Zer0.
+- 👀 I’m interested in ... cyber security , networking and information technology
+- 🌱 I have completed my computer engineering.
+- 😁 I am CEH certified as of January 2024
 - 💞️ I’m looking to collaborate on ... learn anything new 
-- 📫 How to reach me ... email me at : doodleboy841@gmail.com
+- 📫 How to reach me ... email me at : hardikwasekar98@gmail.com
 
 <!---
 Cz3r0saN/Cz3r0saN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
